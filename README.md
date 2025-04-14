@@ -9,7 +9,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_НИК/vue-todo.git
+   git clone https://github.com/Ralseth/vue-todo.git
 
 
 2. Установите зависимости:
